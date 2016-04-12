@@ -1,0 +1,121 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{DengECCV2010}
+J.~Deng, A.~C. Berg, K.~Li, L.~Fei-Fei, What does classifying more than 10, 000
+  image categories tell us?, in: ECCV, 2010, pp. 71--84.
+
+\bibitem{Akata.TPAMI2013}
+Z.~Akata, F.~Perronnin, Z.~Harchaoui, C.~Schmid, Good practice in large-scale
+  learning for image classification, {IEEE} Trans. Pattern Anal. Mach. Intell.
+  36~(3) (2014) 507--520.
+
+\bibitem{ILSVRC15}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, A.~C. Berg, L.~Fei-Fei, {ImageNet Large
+  Scale Visual Recognition Challenge}, International Journal of Computer Vision
+  (IJCV) (2015) 1--42\href {http://dx.doi.org/10.1007/s11263-015-0816-y}
+  {\path{doi:10.1007/s11263-015-0816-y}}.
+
+\bibitem{HOSong15PAMI}
+H.~O. Song, R.~B. Girshick, S.~Zickler, C.~Geyer, P.~F. Felzenszwalb,
+  T.~Darrell, Generalized sparselet models for real-time multiclass object
+  recognition, {IEEE} Trans. Pattern Anal. Mach. Intell. 37~(5) (2015)
+  1001--1012.
+
+\bibitem{Bengio.NIPS2010}
+S.~Bengio, J.~Weston, D.~Grangier, Label embedding trees for large multi-class
+  tasks, in: Advances in Neural Information Processing Systems 23, NIPS 2010 .
+  Proceedings of a meeting held 6-9 December 2010, Vancouver, British Columbia,
+  Canada., 2010, pp. 163--171.
+
+\bibitem{Deng.NIPS2011}
+J.~Deng, S.~Satheesh, A.~C. Berg, F.~Li, Fast and balanced: Efficient label
+  tree learning for large scale object recognition, in: Advances in Neural
+  Information Processing Systems 24, NIPS 2011. Proceedings of a meeting held
+  12-14 December 2011, Granada, Spain., 2011, pp. 567--575.
+
+\bibitem{WangICME13}
+Y.~Wang, D.~A. Forsyth, Large multi-class image categorization with ensembles
+  of label trees, in: Proceedings of the 2013 {IEEE} International Conference
+  on Multimedia and Expo, {ICME} 2013, San Jose, CA, USA, July 15-19, 2013,
+  2013, pp. 1--6.
+
+\bibitem{Liu.CVPR2013.ProbTree}
+B.~Liu, F.~Sadeghi, M.~F. Tappen, O.~Shamir, C.~Liu, Probabilistic label trees
+  for efficient large scale image classification, in: 2013 {IEEE} Conference on
+  Computer Vision and Pattern Recognition, Portland, OR, USA, June 23-28, 2013,
+  2013, pp. 843--850.
+
+\bibitem{Zhu.CVIU2014}
+S.~Zhu, X.~Wei, C.~Ngo, Collaborative error reduction for hierarchical
+  classification, Computer Vision and Image Understanding 124 (2014) 79--90.
+
+\bibitem{SunICCV2013}
+M.~Sun, W.~Huang, S.~Savarese, Find the best path: An efficient and accurate
+  classifier for image hierarchies, in: {IEEE} International Conference on
+  Computer Vision, {ICCV} 2013, Sydney, Australia, December 1-8, 2013, 2013,
+  pp. 265--272.
+
+\bibitem{Babbar.NIPS2013_5082}
+R.~Babbar, I.~Partalas, E.~Gaussier, M.~reza Amini,
+  \href{http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/926.pdf}{On
+  flat versus hierarchical classification in large-scale taxonomies}, in:
+  C.~Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, K.~Weinberger (Eds.),
+  Advances in Neural Information Processing Systems 26, 2013, pp. 1824--1832.
+\newline\urlprefix\url{http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/926.pdf}
+
+\bibitem{AndrewsNIPS2002}
+S.~Andrews, I.~Tsochantaridis, T.~Hofmann, Support vector machines for
+  multiple-instance learning, in: Advances in Neural Information Processing
+  Systems 15, {NIPS} 2002, December 9-14, 2002, Vancouver, British Columbia,
+  Canada], 2002, pp. 561--568.
+
+\bibitem{GriffinCaltech256}
+G.~Griffin, A.~Holub, P.~Perona,
+  \href{http://authors.library.caltech.edu/7694}{Caltech-256 object category
+  dataset}, Tech. Rep. 7694, California Institute of Technology (2007).
+\newline\urlprefix\url{http://authors.library.caltech.edu/7694}
+
+\bibitem{SUN2010}
+J.~Xiao, J.~Hays, K.~A. Ehinger, A.~Oliva, A.~Torralba, {SUN} database:
+  Large-scale scene recognition from abbey to zoo, in: The Twenty-Third {IEEE}
+  Conference on Computer Vision and Pattern Recognition, {CVPR} 2010, San
+  Francisco, CA, USA, 13-18 June 2010, 2010, pp. 3485--3492.
+
+\bibitem{Wang.CVPR2010}
+J.~Wang, J.~Yang, K.~Yu, F.~Lv, T.~S. Huang, Y.~Gong, Locality-constrained
+  linear coding for image classification, in: The Twenty-Third {IEEE}
+  Conference on Computer Vision and Pattern Recognition, {CVPR} 2010, San
+  Francisco, CA, USA, 13-18 June 2010, 2010, pp. 3360--3367.
+
+\bibitem{Vedaldi10vlfeat}
+A.~Vedaldi, B.~Fulkerson, Vlfeat: an open and portable library of computer
+  vision algorithms (2010).
+
+\bibitem{Lazebnik.CVPR2006}
+S.~Lazebnik, C.~Schmid, J.~Ponce, Beyond bags of features: Spatial pyramid
+  matching for recognizing natural scene categories, in: 2006 {IEEE} Computer
+  Society Conference on Computer Vision and Pattern Recognition {(CVPR} 2006),
+  17-22 June 2006, New York, NY, {USA}, 2006, pp. 2169--2178.
+
+\bibitem{ng2002spectral}
+A.~Y. Ng, M.~I. Jordan, Y.~Weiss, On spectral clustering: Analysis and an
+  algorithm, in: Advances in Neural Information Processing Systems 14, {NIPS}
+  2001, December 3-8, 2001, Vancouver, British Columbia, Canada], 2001, pp.
+  849--856.
+
+\bibitem{MaiICIAP15}
+T.~Mai, T.~D. Ngo, D.~Le, D.~A. Duong, K.~Hoang, S.~Satoh, Learning balanced
+  trees for large scale image classification, in: ICIAP, 2015, pp. 3--13.
+
+\bibitem{ChatfieldBMVC14}
+K.~Chatfield, K.~Simonyan, A.~Vedaldi, A.~Zisserman, Return of the devil in the
+  details: Delving deep into convolutional nets, in: British Machine Vision
+  Conference, {BMVC} 2014, Nottingham, UK, September 1-5, 2014, 2014.
+
+\end{thebibliography}
